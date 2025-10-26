@@ -1,0 +1,6 @@
+Average price per square meter: 193333.33
+Cheapest property price: 7590000
+Total price of all properties: 85270000
+Condominiums below average total price:
+Repeated average price per square meter: 193333.33
+Repeated total price of all properties: 85270000
